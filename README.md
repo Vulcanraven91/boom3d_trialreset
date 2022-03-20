@@ -1,4 +1,4 @@
-# Boom3d Trialreset
+# Boom3D Trialreset
 
 Pretty easy trial reset for Boom3D
 
