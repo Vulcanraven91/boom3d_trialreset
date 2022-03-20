@@ -1,4 +1,5 @@
-# boom3d_trialreset
+# Boom3d Trialreset
+
 Pretty easy trial reset for Boom3D
 
 Just delete the key:
